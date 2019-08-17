@@ -7425,6 +7425,7 @@
 - [James Rice](https://github.com/jamesrice96)
 - [Lubits](https://github.com/kieran23101)
 - [Scott Williams aka Rogues](https://github.com/Rogue00)
+- [Louise Tannahill](https://github.com/Tannahill)
 - [Natalie Smith](https://github.com/natmegs)
 - [Patrick Stephens](https://github.com/patsteph)
 - [Zara Otamias](https://github.com/zotamias)
